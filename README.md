@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @precious-umeh
-- 👀 I’m interested in website development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning frontend website development
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me preciouschukwuanugoumeh@gmail.com
